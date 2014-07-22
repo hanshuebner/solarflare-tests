@@ -1,0 +1,13 @@
+This is some sample output from running run.sh on davos on 22-Jul-2014:
+
+63% sender polls returned no data
+receiver finished with errors, 3199 packets lost (0.003%)
+packet rate: 7.3 Mpps
+Gaps:
+-63- +24+ -111- +32+ -104- +32+ -89- +32+ -102- +32+ -94- +32+ -97- +32+ -94- +32+ -92- +14405048+ -83- +48+ -82- +32+ -101- +32+ -98- +32+ -106- +24+ -103- +32+ -102- +32+ -131- +14559256+ -59- +32+ -103- 
+15 more errors not shown
+92% receiver polls returned no data
+packet rate: 7.3 Mpps
+rx_nodesc_drops delta:  3199
+send: no process found
+recv: no process found
