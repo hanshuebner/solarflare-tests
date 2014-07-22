@@ -2,7 +2,7 @@
 
 . defs.sh
 
-OPTS="-p -n10000000"
+OPTS="-p -n100000000"
 
 trap "sudo killall send recv" 0
 

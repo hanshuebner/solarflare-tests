@@ -1,5 +1,5 @@
 
-OPENONLOAD = 	$(HOME)/openonload-201310-u3
+OPENONLOAD = 	$(HOME)/openonload-201405
 
 CFLAGS +=	-I$(OPENONLOAD)/src/include -std=c99 -g
 LDFLAGS +=	-L$(OPENONLOAD)/build/gnu_x86_64/lib/ciul
